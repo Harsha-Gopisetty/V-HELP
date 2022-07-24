@@ -46,5 +46,6 @@ Maintainers
   * [Inukollu Yasas Chandra](https://github.com/yasas2002)
   * [Sreeharsha Gopisetti](https://github.com/Harsha-Gopisetty)
   * [Bhargav Jaldu](https://github.com/bhargav-jaldu)
+  * [Satya Raj](https://github.com/bhargav-jaldu)
 
 
